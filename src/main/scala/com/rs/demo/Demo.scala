@@ -6,5 +6,6 @@ object Demo {
     print("Hii")
     print("Test Statement")
     print("Test1")
+    print("Test2")
   }
 }
