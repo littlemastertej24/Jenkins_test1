@@ -19,8 +19,8 @@
       <file leaf-file-name="Demo.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/rs/demo/Demo.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="352">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -188,7 +188,28 @@
       <option name="project" value="LOCAL" />
       <updated>1593271868209</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test line4">
+      <created>1593273219215</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593273219215</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test line5">
+      <created>1593273688985</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593273688985</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test line5">
+      <created>1593274494136</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593274494136</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -231,7 +252,9 @@
     <MESSAGE value="Test line1" />
     <MESSAGE value="Test line2" />
     <MESSAGE value="Test line3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test line3" />
+    <MESSAGE value="Test line4" />
+    <MESSAGE value="Test line5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test line5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/main.iml">
@@ -239,8 +262,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/rs/demo/Demo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

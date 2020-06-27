@@ -11,5 +11,6 @@ object Demo {
     print("Test4")
     print("Test5")
     print("Test 6")
+    print("Test 7")
   }
 }
