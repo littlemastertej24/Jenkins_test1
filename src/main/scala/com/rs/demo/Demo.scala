@@ -5,5 +5,6 @@ object Demo {
     print("Hello World")
     print("Hii")
     print("Test Statement")
+    print("Test1")
   }
 }
