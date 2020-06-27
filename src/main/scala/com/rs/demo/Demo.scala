@@ -4,5 +4,6 @@ object Demo {
   def main(args: Array[String]): Unit = {
     print("Hello World")
     print("Hii")
+    print("Test Statement")
   }
 }
